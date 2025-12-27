@@ -1,8 +1,23 @@
 # Hi there, I'm Milad Bagheri 👋
 
-## Biotechnology Puzeller
+## Senior Bioinformatics Architect & Project Manager
 
-I'm a passionate Biotechnologist and Developer with a focus on Bioinformatics, Machine Learning, and Cloud Computing. I enjoy solving complex puzzles in biology using computational methods.
+Architecting the biotech future by bridging biological complexity and computational power. I specialize in merging biological data with the predictive power of Artificial Intelligence through a unified ecosystem of biological complexity and computational logic.
+
+---
+
+### 💼 Work Experience
+
+#### **Founder & Lead Architect** | *Bio-Computation Firm*
+*Nov 2025 – Present | Dubai, UAE*
+- Revolutionizing bio-computation through advanced architectural design.
+- Managing full lifecycle bioinformatics projects and developing proprietary AI tools.
+
+#### **Biotechnology Project Manager / Application Developer** | *Dubai Biotechnology Labs*
+*Nov 2023 – Feb 2025 | Dubai, UAE*
+- Led bioinformatics pipeline development, overseeing AWS backend infrastructure and workflow design.
+- Developed advanced platforms for personalized medicine, genomics, and therapeutic design.
+- Coordinated cross-functional teams (Backend, UI/UX, Front-end) to ensure seamless project integration.
 
 ---
 
@@ -25,33 +40,29 @@ I'm a passionate Biotechnologist and Developer with a focus on Bioinformatics, M
 
 ---
 
-### 🌟 Professional Skills
+### 🌟 Technical Skills & Specialized Mastery
 
-*   **Bioinformatics Algorithms**: Proficient in sequence alignment, variant calling, and NGS data analysis.
-*   **Machine Learning in Genomics**: Experienced in building models for peptide generation and interaction prediction.
-*   **Containerization & Pipelines**: Skilled in creating Dockerized workflows for reproducible research (Groovy, Nextflow).
-*   **Multi-Omics Analysis**: Experienced in integrating and analyzing diverse biological datasets.
-
----
-
-### 🌐 General Skills
-
-*   **Problem-Solving**: Adept at tackling complex biological questions with computational solutions.
-*   **Research**: Strong background in biotechnology research and methodology.
-*   **Collaboration**: Effective in cross-disciplinary teams bridging biology and computer science.
+*   **Core Tech**: NVIDIA GPU Genome Rendering, AI/ML, Data Analytics, DevOps & Cloud (AWS), Visualization & Design.
+*   **Genomics & Omics**: Computational Genomics, Gene Profiling, Metabolomics, Microbiome & Metagenomics.
+*   **Cheminformatics & Drug Discovery**: Click Chemistry Simulation, Specialized Drug Design, High-throughput Virtual Screening, Molecular Dynamics (GROMACS).
+*   **Antibody Engineering**: Custom Antibody Library Design, Nanobody Structural Modeling, Protein Vaccine Development, Epitope Mapping & Prediction.
 
 ---
 
-### 🔭 Research Interests
-- **Bioinformatics & Computational Biology**
-- **Machine Learning & AI in Genomics**
-- **Docker & Containerization**
-- **Variant Calling & NGS Analysis**
-- **Microbiome Analysis**
+### 🚀 Projects & Innovations
+
+#### **Bioinformatics Pipelines**
+End-to-end execution from molecular design to clinical data analysis.
+
+#### **Proprietary AI Tools**
+Development of in-house tools for bio-computational revolution.
+
+#### **Therapeutic Design Platforms**
+Building software ecosystems for personalized medicine and genomic profiling.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories
 
 #### [PepMLM_api](https://github.com/Cosmos9526/PepMLM_api)
 A machine learning-based model for generating short peptide sequences that can act as binders to target proteins.
