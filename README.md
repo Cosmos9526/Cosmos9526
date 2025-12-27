@@ -6,27 +6,48 @@ I'm a passionate Biotechnologist and Developer with a focus on Bioinformatics, M
 
 ---
 
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🚀 Technologies and Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🌟 Professional Skills
+
+*   **Bioinformatics Algorithms**: Proficient in sequence alignment, variant calling, and NGS data analysis.
+*   **Machine Learning in Genomics**: Experienced in building models for peptide generation and interaction prediction.
+*   **Containerization & Pipelines**: Skilled in creating Dockerized workflows for reproducible research (Groovy, Nextflow).
+*   **Multi-Omics Analysis**: Experienced in integrating and analyzing diverse biological datasets.
+
+---
+
+### 🌐 General Skills
+
+*   **Problem-Solving**: Adept at tackling complex biological questions with computational solutions.
+*   **Research**: Strong background in biotechnology research and methodology.
+*   **Collaboration**: Effective in cross-disciplinary teams bridging biology and computer science.
+
+---
+
 ### 🔭 Research Interests
 - **Bioinformatics & Computational Biology**
 - **Machine Learning & AI in Genomics**
 - **Docker & Containerization**
 - **Variant Calling & NGS Analysis**
 - **Microbiome Analysis**
-
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.bash.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-</p>
 
 ---
 
