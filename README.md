@@ -6,18 +6,15 @@ Architecting the biotech future by bridging biological complexity and computatio
 
 ---
 
-### 💼 Work Experience
+### 🧬 Specialized Pipeline Architectures
 
-#### **Founder & Lead Architect** | *Bio-Computation Firm*
-*Nov 2025 – Present | Dubai, UAE*
-- Revolutionizing bio-computation through advanced architectural design.
-- Managing full lifecycle bioinformatics projects and developing proprietary AI tools.
-
-#### **Biotechnology Project Manager / Application Developer** | *Dubai Biotechnology Labs*
-*Nov 2023 – Feb 2025 | Dubai, UAE*
-- Led bioinformatics pipeline development, overseeing AWS backend infrastructure and workflow design.
-- Developed advanced platforms for personalized medicine, genomics, and therapeutic design.
-- Coordinated cross-functional teams (Backend, UI/UX, Front-end) to ensure seamless project integration.
+*   **Immuno-Computational Pipelines**
+*   **Specialized Antibody Pipeline Design**
+*   **Specialized Specific Nanobody Design**
+*   **Multi-Epitope Vaccine Design**
+*   **Genome Profiler Design**
+*   **Drug Design Pipeline**
+*   **Click Chemistry Pipeline**
 
 ---
 
@@ -25,7 +22,10 @@ Architecting the biotech future by bridging biological complexity and computatio
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-555555?style=flat&logo=buffer&logoColor=white)
 
 ---
 
@@ -37,6 +37,9 @@ Architecting the biotech future by bridging biological complexity and computatio
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -59,34 +62,3 @@ Development of in-house tools for bio-computational revolution.
 
 #### **Therapeutic Design Platforms**
 Building software ecosystems for personalized medicine and genomic profiling.
-
----
-
-### 🚀 Featured Repositories
-
-#### [PepMLM_api](https://github.com/Cosmos9526/PepMLM_api)
-A machine learning-based model for generating short peptide sequences that can act as binders to target proteins.
-
-#### [Boltz-2-docker-api](https://github.com/Cosmos9526/Boltz-2-docker-api)
-Boltz is a family of models for biomolecular interaction prediction.
-
-#### [VEP_FullAutoAnnotator](https://github.com/Cosmos9526/VEP_FullAutoAnnotator)
-Fully automated VEP Docker allowing you to perform annotation with VEP using text and VCF inputs.
-
-#### [Automated-Fastq-to-VCF-Pipeline](https://github.com/Cosmos9526/Automated-Fastq-to-VCF-Pipeline)
-Processes paired-end Fastq files to generate BAM, VCF, and index files using Fastp, BWA, and GATK v4.
-
-#### [Variant-Calling-Pipeline](https://github.com/Cosmos9526/Variant-Calling-Pipeline)
-Pipeline performing variant calling using Strelka, FreeBayes, VarScan, and GATK HaplotypeCaller.
-
-#### [16s_microbiome_Docker](https://github.com/Cosmos9526/16s_microbiome_Docker)
-Containerized pipeline for processing and analyzing 16S rRNA sequencing data.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Cosmos9526&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1a1b27&hide_border=true&show_icons=true" alt="Cosmos9526's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmos9526&layout=compact&text_color=ffffff&title_color=0891b2&bg_color=1a1b27&hide_border=true" alt="Top Languages" />
-</p>
